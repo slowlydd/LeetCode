@@ -4,33 +4,31 @@
  * @return {string}
  */
 var addBinary = function(a, b) {
-  let s1;
-  let s2;
-  if(a.length <= b.length) {
-    s1 = a;
-    s2 = b;
+  let array1;
+  let array2;
+  if(a.length >= b.length) {
+    array1 = a.split("");
+    array2 = b.split("");
   } else {
-    s1 = b;
-    s2 = a;
+    array1 = b.split("");
+    array2 = a.split("");
   }
 
-  let j = s2.length - 1;
-
-  for(let i = s1.length - 1; s1 >= 0; s1++) {
-    s2[j] = s1[i] + s2[j];
+  let j = array1.length - 1;
+  for(let i = array2.length - 1; i >= 0; i--) {
+    array1[j] = Number(array1[j]) + Number(array2[i]);
     j--;
   }
-
   let temp = 0;
-  for (let i = s2.length - 1; i >= 0; i--) {
-    temp = parseInt((s2[i] + temp) / 2);
-    s2[i] = s2[i] % 2;
+  for (let i = array1.length - 1; i >= 0; i--) {
+    array1[i] = Number(array1[i]) + temp;
+    temp = parseInt(array1[i] / 2);
+    array1[i] = array1[i] % 2;
   }
-
-  if(temp == 0) {
-    return s[2];
+  if(temp > 0) {
+    return temp.toString(2) + array1.join("");
   } else {
-    return temp.toString(2).split("").concat(s2);
+    return array1.join("");
   }
 };
 
