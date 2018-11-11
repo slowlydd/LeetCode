@@ -13,6 +13,7 @@ var deleteDuplicates = function (head) {
   let init = {
     head
   };
+  // 这里的输出是一个小彩蛋
   if(!head) {
     return [];
   }
