@@ -9,43 +9,37 @@
  * @param {number[]} nums
  * @return {TreeNode}
  */
-var sortedArrayToBST = function(nums) {
-  console.log(nums);
-    if(nums.length === 0) {
-      return null;
-    } else {
-      let tree = new TreeNode(nums[0]);
-      tree.left = 
-      createTree(tree.left, 1, nums, true);
-      createTree(tree.right, parseInt((nums.length - 2) / 2), nums, false);
-
-      console.log(tree);
-    }
+var sortedArrayToBST = function (nums) {
+  if (nums.length <= 0) {
+    return [];
+  } else {
+    mid = parseInt((nums.length - 1) / 2);
+    let tree = new TreeNode(nums[mid]);
+    let array1 = nums.slice(0, mid);
+    let array2 = nums.slice(mid + 1, nums.length);
+    tree.left = createTree(array1);
+    tree.right = createTree(array2);
+    return tree;
+  }
 };
 
-function createTree(tree, index, array, flag) {
-  if(flag) {
-    if(index >=  parseInt((array.length - 2) / 2)) {
-      return ;
-    } else {
-      tree = new TreeNode(array[index++]);
-      createTree(tree.left, index , array);
-    }
+function createTree(array) {
+  if(array.length === 0) {
+    return null;
   } else {
-    if(index >= array.length) {
-      return ;
-    } else {
-      tree = new TreeNode(array[index++]);
-      createTree(tree.left, index , array);
-    }
+    mid = parseInt((array.length - 1) / 2);
+    let tree = new TreeNode(array[mid]);
+    let array1 = array.slice(0, mid);
+    let array2 = array.slice(mid + 1, array.length);
+    tree.left = createTree(array1);
+    tree.right = createTree(array2);
+    return tree;
   }
 }
 
+sortedArrayToBST([-10, -3, 0, 5, 9]);
 
-
- function TreeNode(val) {
-       this.val = val;
-       this.left = this.right = null;
-   }
-
-   sortedArrayToBST([-10,-3,0,5,9]);
+function TreeNode(val) {
+  this.val = val;
+  this.left = this.right = null;
+}
