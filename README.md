@@ -59,7 +59,11 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[JavaScript](./Problems/202.HappyNumber/202.js)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[JavaScript](./Problems/203.RemoveLinkedListElements/203.js)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[JavaScript](./Problems/204.CountPrimes/204.js)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[JavaScript](./Problems/205.IsomorphicStrings/205.js)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./Problems/206.ReverseLinkedList/206.js)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./Problems/217.ContainsDuplicate/217.js)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](./Problems/219.ContainsDuplicateII/219.js)|Easy|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JavaScript](./Problems/225.ImplementStackUsingQueues/225.js)|Easy|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)|[JavaScript](./Problems/937.ReorderLogFiles/937.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./Problems/941.ValidMountainArray/941.js)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[JavaScript](./Problems/942.DIStringMatch/942.js)|Easy|
