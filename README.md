@@ -64,6 +64,8 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[JavaScript](./Problems/217.ContainsDuplicate/217.js)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[JavaScript](./Problems/219.ContainsDuplicateII/219.js)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[JavaScript](./Problems/225.ImplementStackUsingQueues/225.js)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[JavaScript](./Problems/226.InvertBinaryTree/226.js)|Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[JavaScript](./Problems/231.PowerOfTwo/231.js)|Easy|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)|[JavaScript](./Problems/937.ReorderLogFiles/937.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./Problems/941.ValidMountainArray/941.js)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[JavaScript](./Problems/942.DIStringMatch/942.js)|Easy|
