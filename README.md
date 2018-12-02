@@ -70,6 +70,9 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./Problems/234.PalindromeLinkedList/234.js)|Easy|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[JavaScript](./Problems/235.LowestCommonAncestorOfABinarySearchTree/235.js)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[JavaScript](./Problems/237.DeleteNodeInALinkedList/237.js)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./Problems/242.ValidAnagram/242.js)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](./Problems/257.BinaryTreePaths/257.js)|Easy|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./Problems/258.AddDigits/258.js)|Easy|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)|[JavaScript](./Problems/937.ReorderLogFiles/937.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./Problems/941.ValidMountainArray/941.js)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[JavaScript](./Problems/942.DIStringMatch/942.js)|Easy|
