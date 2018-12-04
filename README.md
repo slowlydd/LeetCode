@@ -35,6 +35,8 @@
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[JavaScript](./Problems/102.BinaryTreeLevelOrderTraversal/102.js)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[JavaScript](./Problems/103.BinaryTreeZigzagLevelOrderTraversal/103.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./Problems/104.MaximumDepthOfBinaryTree/104.js)|Easy|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JavaScript](./Problems/105.ConstructBinaryTreeFromPreorderAndInorderTraversal/105.js)|Medium|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[JavaScript](./Problems/106.ConstructBinaryTreeFromInorderAndPostorderTraversal/106.js)|Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[JavaScript](./Problems/107.BinaryTreeLevelOrderTraversalII/107.js)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./Problems/108.ConvertSortedArraytoBinarySearchTree/108.js)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[JavaScript](./Problems/110.BalancedBinaryTree/110.js)|Easy|
@@ -75,6 +77,7 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[JavaScript](./Problems/242.ValidAnagram/242.js)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](./Problems/257.BinaryTreePaths/257.js)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./Problems/258.AddDigits/258.js)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](./Problems/263.UglyNumber/263.js)|Easy|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)|[JavaScript](./Problems/937.ReorderLogFiles/937.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./Problems/941.ValidMountainArray/941.js)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[JavaScript](./Problems/942.DIStringMatch/942.js)|Easy|
