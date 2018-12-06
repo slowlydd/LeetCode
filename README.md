@@ -27,6 +27,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[JavaScript](./Problems/67.AddBinary/67.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[JavaScript](./Problems/69.Sqrt(x)/69.js)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[JavaScript](./Problems/70.ClimbingStairs/70.js)|Easy|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[JavaScript](./Problems/75.SortColors/75.js)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[JavaScript](./Problems/83.RemoveDuplicatesfromSortedList/83.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[JavaScript](./Problems/88.MergeSortedArray/88.js)|Easy|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[JavaScript](./Problems/95.UniqueBinarySearchTreesII/95.js)|Medium|
