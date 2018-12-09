@@ -83,3 +83,5 @@
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)|[JavaScript](./Problems/937.ReorderLogFiles/937.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./Problems/941.ValidMountainArray/941.js)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[JavaScript](./Problems/942.DIStringMatch/942.js)|Easy|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[JavaScript](./Problems/953.VerifyingAnAlienDictionary/953.js)|Easy|
+|954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)|[JavaScript](./Problems/953.VerifyingAnAlienDictionary/954.js)|Easy|
