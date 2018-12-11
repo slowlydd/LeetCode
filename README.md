@@ -80,6 +80,8 @@
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[JavaScript](./Problems/257.BinaryTreePaths/257.js)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./Problems/258.AddDigits/258.js)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[JavaScript](./Problems/263.UglyNumber/263.js)|Easy|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./Problems/268.MissingNumber/268.js)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./Problems/278.FirstBadVersion/278.js)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[JavaScript](./Problems/860.LemonadeChange/860.js)|Easy|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)|[JavaScript](./Problems/937.ReorderLogFiles/937.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./Problems/941.ValidMountainArray/941.js)|Easy|
