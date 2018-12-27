@@ -87,6 +87,7 @@
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./Problems/442.FindAllDuplicatesInAnArray/442.js)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./Problems/448.FindAllNumbersDisappearedInAnArray/448.js)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./Problems/485.MaxConsecutiveOnes/485.js)|Easy|
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[JavaScript](./Problems/495.TeemoAttacking/495.js)|Medium|
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[JavaScript](./Problems/508.MostFrequentSubtreeSum/508.js)|Medium|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[JavaScript](./Problems/575.DistributeCandies/575.js)|Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](./Problems/645.SetMismatch/645.js)|Easy|
