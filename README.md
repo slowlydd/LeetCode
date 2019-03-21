@@ -86,6 +86,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[JavaScript](./Problems/268.MissingNumber/268.js)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[JavaScript](./Problems/278.FirstBadVersion/278.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./Problems/283.MoveZeroes/283.js)|Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Go](./Problems/290.WordPattern/290.go)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./Problems/442.FindAllDuplicatesInAnArray/442.js)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./Problems/448.FindAllNumbersDisappearedInAnArray/448.js)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./Problems/485.MaxConsecutiveOnes/485.js)|Easy|
