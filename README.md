@@ -7,11 +7,13 @@
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./Problems/1.TwoSum/1.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./Problems/2.AddTwoNumbers/2.js)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[JavaScript](./Problems/4.MedianOfTwoSortedArrays/4.js)|Hard|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[JavaScript](./Problems/7.ReverseInteger/7.js)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[JavaScript](./Problems/9.PalindromeNumber/9.js)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[JavaScript](./Problems/11.ContainerWithMostWater/11.js)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[JavaScript](./Problems/13.RomantoInteger/13.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./Problems/14.LongestCommonPrefix/14.js)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[JavaScript](./Problems/19.RemoveNthNodeFromEndOfList/19.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[JavaScript](./Problems/20.ValidParentheses/20.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[JavaScript](./Problems/21.MergeTwoSortedLists/21.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./Problems/26.RemoveDuplicatesfromSortedArray/26.js)|Easy|
@@ -91,7 +93,10 @@
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)|[JavaScript](./Problems/508.MostFrequentSubtreeSum/508.js)|Medium|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[JavaScript](./Problems/575.DistributeCandies/575.js)|Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[JavaScript](./Problems/645.SetMismatch/645.js)|Easy|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[JavaScript](./Problems/682.BaseballGame/682.js)|Easy|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[JavaScript](./Problems/844.BackspaceStringCompare/844.js)|Easy|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[JavaScript](./Problems/860.LemonadeChange/860.js)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[JavaScript](./Problems/876.MiddleOfTheLinkedList/876.js)|Easy|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files/)|[JavaScript](./Problems/937.ReorderLogFiles/937.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[JavaScript](./Problems/941.ValidMountainArray/941.js)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[JavaScript](./Problems/942.DIStringMatch/942.js)|Easy|
