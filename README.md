@@ -19,6 +19,7 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./Problems/28.Implement_strStr()/28.js)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./Problems/35.SearchInsertPosition/35.js)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./Problems/38.CountAndSay/38.js)|Easy|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Go](./Problems/41.FirstMissingPositive/41.go)|hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./Problems/53.MaximumSubarray/53.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./Problems/58.LengthOfLastWord/58.js)|Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[JavaScript](./Problems/62.UniquePaths/62.js)|Medium|
