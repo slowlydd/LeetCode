@@ -21,7 +21,7 @@
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[JavaScript](./Problems/28.Implement_strStr()/28.js)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[JavaScript](./Problems/35.SearchInsertPosition/35.js)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[JavaScript](./Problems/38.CountAndSay/38.js)|Easy|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Go](./Problems/41.FirstMissingPositive/41.go)|hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Go](./Problems/41.FirstMissingPositive/41.go)|Hard|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[JavaScript](./Problems/53.MaximumSubarray/53.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[JavaScript](./Problems/58.LengthOfLastWord/58.js)|Easy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[JavaScript](./Problems/62.UniquePaths/62.js)|Medium|
@@ -89,6 +89,7 @@
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[JavaScript](./Problems/283.MoveZeroes/283.js)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Go](./Problems/290.WordPattern/290.go)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Go](./Problems/292.NimGame/292.go)|Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Go](./Problems/344.ReverseString/344.go)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./Problems/442.FindAllDuplicatesInAnArray/442.js)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./Problems/448.FindAllNumbersDisappearedInAnArray/448.js)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./Problems/485.MaxConsecutiveOnes/485.js)|Easy|
