@@ -52,6 +52,7 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./Problems/112.PathSum/112.js)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[JavaScript](./Problems/118.Pascal'sTriangle/118.js)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[JavaScript](./Problems/119.Pascal'sTriangleII/119.js)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle/)|[Go](./Problems/120.Triangle/120_test.go)|Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./Problems/121.BestTimeToBuyAndSellStock/121.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./Problems/122.BestTimeToBuyAndSellStockII/122.js)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./Problems/125.ValidPalindrome/125.js)|Easy|
