@@ -93,6 +93,7 @@
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Go](./Problems/290.WordPattern/290.go)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Go](./Problems/292.NimGame/292.go)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Go](./Problems/344.ReverseString/344.go)|Easy|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Go](./Problems/367.ValidPerfectSquare/367_test.go)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./Problems/442.FindAllDuplicatesInAnArray/442.js)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[JavaScript](./Problems/448.FindAllNumbersDisappearedInAnArray/448.js)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[JavaScript](./Problems/485.MaxConsecutiveOnes/485.js)|Easy|
