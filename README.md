@@ -35,6 +35,7 @@
 |69|[Sqrt(x)](https://leetcode.com/algorithm/javascript/sqrtx/)|[JavaScript](./algorithm/javascript/69.Sqrt(x)/69.js)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/algorithm/javascript/climbing-stairs/)|[JavaScript](./algorithm/javascript/70.ClimbingStairs/70.js)|Easy|
 |75|[Sort Colors](https://leetcode.com/algorithm/javascript/sort-colors/)|[JavaScript](./algorithm/javascript/75.SortColors/75.js)|Medium|
+|80|[ Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[JavaScript](./algorithm/javascript/80.RemoveDuplicatesFromSortedArrayII/80.js)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/algorithm/javascript/remove-duplicates-from-sorted-list/)|[JavaScript](./algorithm/javascript/83.RemoveDuplicatesfromSortedList/83.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/algorithm/javascript/merge-sorted-array/)|[JavaScript](./algorithm/javascript/88.MergeSortedArray/88.js)|Easy|
 |95|[Unique Binary Search Trees II](https://leetcode.com/algorithm/javascript/unique-binary-search-trees-ii/)|[JavaScript](./algorithm/javascript/95.UniqueBinarySearchTreesII/95.js)|Medium|
@@ -93,6 +94,7 @@
 |283|[Move Zeroes](https://leetcode.com/algorithm/javascript/move-zeroes/)|[JavaScript](./algorithm/javascript/283.MoveZeroes/283.js)|Easy|
 |290|[Word Pattern](https://leetcode.com/algorithm/javascript/word-pattern/)|[Go](./algorithm/golang/290.WordPattern/290.go)|Easy|
 |292|[Nim Game](https://leetcode.com/algorithm/javascript/nim-game/)|[Go](./algorithm/golang/292.NimGame/292.go)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[JavaScript](./algorithm/javascript/299.BullsAndCows/299.js)|Easy|
 |344|[Reverse String](https://leetcode.com/algorithm/javascript/reverse-string/)|[Go](./algorithm/golang/344.ReverseString/344.go)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/algorithm/javascript/valid-perfect-square/)|[Go](./algorithm/golang/367.ValidPerfectSquare/367_test.go)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/algorithm/javascript/find-all-duplicates-in-an-array/)|[JavaScript](./algorithm/javascript/442.FindAllDuplicatesInAnArray/442.js)|Medium|
