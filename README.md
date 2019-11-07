@@ -58,6 +58,7 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/algorithm/javascript/best-time-to-buy-and-sell-stock/)|[JavaScript](./algorithm/javascript/121.BestTimeToBuyAndSellStock/121.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/algorithm/javascript/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./algorithm/javascript/122.BestTimeToBuyAndSellStockII/122.js)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/algorithm/javascript/valid-palindrome/)|[JavaScript](./algorithm/javascript/125.ValidPalindrome/125.js)|Easy|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|[JavaScript](./algorithm/javascript/134.GasStation/134.js)|Medium|
 |136|[Single Number](https://leetcode.com/algorithm/javascript/single-number/)|[JavaScript](./algorithm/javascript/136.SingleNumber/136.js)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/algorithm/javascript/linked-list-cycle/)|[JavaScript](./algorithm/javascript/141.LinkedListCycle/141.js)|Easy|
 |155|[Min Stack](https://leetcode.com/algorithm/javascript/min-stack/)|[JavaScript](./algorithm/javascript/155.MinStack/155.js)|Easy|
@@ -80,6 +81,7 @@
 |219|[Contains Duplicate II](https://leetcode.com/algorithm/javascript/contains-duplicate-ii/)|[JavaScript](./algorithm/javascript/219.ContainsDuplicateII/219.js)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/algorithm/javascript/implement-stack-using-queues/)|[JavaScript](./algorithm/javascript/225.ImplementStackUsingQueues/225.js)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/algorithm/javascript/invert-binary-tree/)|[JavaScript](./algorithm/javascript/226.InvertBinaryTree/226.js)|Easy|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[JavaScript](./algorithm/javascript/229.MajorityElementII/229.js)|Medium|
 |231|[Power of Two](https://leetcode.com/algorithm/javascript/power-of-two/)|[JavaScript](./algorithm/javascript/231.PowerOfTwo/231.js)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/algorithm/javascript/implement-queue-using-stacks/)|[JavaScript](./algorithm/javascript/232.ImplementQueueUsingStacks/232.js)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/algorithm/javascript/palindrome-linked-list/)|[JavaScript](./algorithm/javascript/234.PalindromeLinkedList/234.js)|Easy|
