@@ -1,4 +1,4 @@
-![avatar](https://leetcode-cn.com/static/webpack_bundles/images/logo-dark.e99485d9b.svg)
+![avatar](./leetcode-log.svg)
 
 
 ### LeetCode Algorithm
