@@ -25,7 +25,9 @@
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[JavaScript](./algorithm/javascript/35.SearchInsertPosition/35.js)|简单|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)|[JavaScript](./algorithm/javascript/38.CountAndSay/38.js)|简单|
 |41|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|[Go](./algorithm/golang/41.FirstMissingPositive/41.go)|困难|
+|45|[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)|[JavaScript](./algorithm/javascript/45.跳跃游戏II.js)|困难|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[JavaScript](./algorithm/javascript/53.MaximumSubarray/53.js)|简单|
+|55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|[JavaScript](./algorithm/javascript/55.跳跃游戏.js)|中等|
 |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/)|[JavaScript](./algorithm/javascript/58.LengthOfLastWord/58.js)|简单|
 |62|[Unique Paths](https://leetcode-cn.com/problems/unique-paths/)|[JavaScript](./algorithm/javascript/62.UniquePaths/62.js)|中等|
 |63|[Unique Paths II](https://leetcode-cn.com/problems/unique-paths-ii/)|[JavaScript](./algorithm/javascript/63.UniquePathsII/63.js)|中等|
@@ -57,6 +59,7 @@
 |120|[Triangle](https://leetcode-cn.com/problems/triangle/)|[Go](./algorithm/golang/120.Triangle/120_test.go)|中等|
 |121|[Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./algorithm/javascript/121.BestTimeToBuyAndSellStock/121.js)|简单|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./algorithm/javascript/122.BestTimeToBuyAndSellStockII/122.js)|简单|
+|123|[买卖股票的最佳时机III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|[JavaScript](./algorithm/javascript/123.买卖股票的最佳时机III.js)|困难|
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|[JavaScript](./algorithm/javascript/125.ValidPalindrome/125.js)|简单|
 |134|[Gas Station](https://leetcode-cn.com/problems/gas-station/)|[JavaScript](./algorithm/javascript/134.GasStation/134.js)|中等|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithm/javascript/136.SingleNumber/136.js)|简单|
