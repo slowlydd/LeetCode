@@ -10,7 +10,7 @@
 |4|[Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[JavaScript](./algorithm/javascript/4.MedianOfTwoSortedArrays/4.js)|困难|
 |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/)|[JavaScript](./algorithm/javascript/7.ReverseInteger/7.js)|简单|
 |9|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/)|[JavaScript](./algorithm/javascript/9.PalindromeNumber/9.js)|简单|
-|11|[Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/)|[JavaScript](./algorithm/javascript/11.ContainerWithMostWater/11.js)|中等|
+|11|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[JavaScript](./algorithm/javascript/11.盛最多水的容器.js)|中等|
 |13|[Roman to Integer](https://leetcode-cn.com/problems/roman-to-integer/)|[JavaScript](./algorithm/javascript/13.RomantoInteger/13.js)|简单|
 |14|[Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/)|[JavaScript](./algorithm/javascript/14.LongestCommonPrefix/14.js)|简单|
 |15|[3Sum](https://leetcode-cn.com/problems/3sum/)|[Go](./algorithm/golang/15.3Sum/15_test.go)|中等|
@@ -71,6 +71,7 @@
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[JavaScript](./algorithm/javascript/169.MajorityElement/169.js)|简单|
 |171|[Excel Sheet Column Number](https://leetcode-cn.com/problems/excel-sheet-column-number/)|[JavaScript](./algorithm/javascript/171.ExcelSheetColumnNumber/171.js)|简单|
 |172|[Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)|[JavaScript](./algorithm/javascript/172.FactorialTrailingZeroes/172.js)|简单|
+|188|[买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/)|[JavaScript](./algorithm/javascript/188.买卖股票的最佳时机IV.js)|困难|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|[JavaScript](./algorithm/javascript/189.RotateArray/189.js)|简单|
 |190|[Reverse Bits](https://leetcode-cn.com/problems/reverse-bits/)|[JavaScript](./algorithm/javascript/190.ReverseBits/190.js)|简单|
 |191|[Number of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/)|[JavaScript](./algorithm/javascript/191.NumberOf1Bits/191.js)|简单|
@@ -119,6 +120,6 @@
 |876|[Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[JavaScript](./algorithm/javascript/876.MiddleOfTheLinkedList/876.js)|简单|
 |937|[Reorder Log Files](https://leetcode-cn.com/problems/reorder-log-files/)|[JavaScript](./algorithm/javascript/937.ReorderLogFiles/937.js)|简单|
 |941|[Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/)|[JavaScript](./algorithm/javascript/941.ValidMountainArray/941.js)|简单|
-|942|[DI String Match](https://leetcode-cn.com/problems/di-string-match/)|[JavaScript](./algorithm/javascript/942.DIStringMatch/942.js)|简单|
-|953|[Verifying an Alien Dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|[JavaScript](./algorithm/javascript/953.VerifyingAnAlienDictionary/953.js)|简单|
+|942|[增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/)|[JavaScript](./algorithm/javascript/942.增减字符串匹配.js)|简单|
+|953|[验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|[JavaScript](./algorithm/javascript/953.验证外星语词典.js)|简单|
 |954|[二倍数对数组](https://leetcode-cn.com/problems/array-of-doubled-pairs/)|[JavaScript](./algorithm/javascript/954.二倍数对数组.js)|中等|

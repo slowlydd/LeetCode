@@ -21,5 +21,3 @@ var diStringMatch = function (S) {
   res[res.length] = right--;
   return res;
 };
-
-diStringMatch("");

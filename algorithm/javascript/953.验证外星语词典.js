@@ -42,6 +42,3 @@ function compareString(s1, s2, order) {
   }
   return false;
 }
-
-isAlienSorted(["hello","leetcode"],
-"hlabcdefgijkmnopqrstuvwxyz")
