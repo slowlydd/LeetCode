@@ -25,6 +25,7 @@
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[JavaScript](./algorithm/javascript/35.SearchInsertPosition/35.js)|简单|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)|[JavaScript](./algorithm/javascript/38.CountAndSay/38.js)|简单|
 |41|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|[Go](./algorithm/golang/41.FirstMissingPositive/41.go)|困难|
+|42|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[JavaScript](./algorithm/javascript/42.接雨水.js)|困难|
 |45|[跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)|[JavaScript](./algorithm/javascript/45.跳跃游戏II.js)|困难|
 |53|[Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/)|[JavaScript](./algorithm/javascript/53.MaximumSubarray/53.js)|简单|
 |55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)|[JavaScript](./algorithm/javascript/55.跳跃游戏.js)|中等|
@@ -61,6 +62,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[JavaScript](./algorithm/javascript/122.BestTimeToBuyAndSellStockII/122.js)|简单|
 |123|[买卖股票的最佳时机III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)|[JavaScript](./algorithm/javascript/123.买卖股票的最佳时机III.js)|困难|
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|[JavaScript](./algorithm/javascript/125.ValidPalindrome/125.js)|简单|
+|128|[最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[JavaScript](./algorithm/javascript/128.最长连续序列.js)|困难|
 |134|[Gas Station](https://leetcode-cn.com/problems/gas-station/)|[JavaScript](./algorithm/javascript/134.GasStation/134.js)|中等|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithm/javascript/136.SingleNumber/136.js)|简单|
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithm/javascript/141.LinkedListCycle/141.js)|简单|
@@ -105,6 +107,7 @@
 |292|[Nim Game](https://leetcode-cn.com/problems/nim-game/)|[Go](./algorithm/golang/292.NimGame/292.go)|简单|
 |299|[Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows/)|[JavaScript](./algorithm/javascript/299.BullsAndCows/299.js)|简单|
 |309|[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[JavaScript](./algorithm/javascript/309.最佳买卖股票时机含冷冻期.js)|中等|
+|334|[递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)|[JavaScript](./algorithm/JavaScript/334.递增的三元子序列.js)|中等|
 |344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|[Go](./algorithm/golang/344.ReverseString/344.go)|简单|
 |367|[Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/)|[Go](./algorithm/golang/367.ValidPerfectSquare/367_test.go)|简单|
 |442|[Find All Duplicates in an Array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)|[JavaScript](./algorithm/javascript/442.FindAllDuplicatesInAnArray/442.js)|中等|
