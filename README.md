@@ -68,6 +68,7 @@
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithm/javascript/141.LinkedListCycle/141.js)|简单|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|[JavaScript](./algorithm/javascript/155.MinStack/155.js)|简单|
 |160|[Intersection of Two Linked Lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[JavaScript](./algorithm/javascript/160.IntersectionOfTwoLinkedLists/160.js)|简单|
+|164|[最大间距](https://leetcode-cn.com/problems/maximum-gap/)|[JavaScript](./algorithm/javascript/164.最大间距.js)|困难|
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|[JavaScript](./algorithm/javascript/167.TwoSumII-InputArrayIsSorted/167.js)|简单|
 |168|[Excel Sheet Column Title](https://leetcode-cn.com/problems/excel-sheet-column-title/)|[JavaScript](./algorithm/javascript/168.ExcelSheetColumnTitle/168.js)|简单|
 |169|[Majority Element](https://leetcode-cn.com/problems/majority-element/)|[JavaScript](./algorithm/javascript/169.MajorityElement/169.js)|简单|
@@ -103,6 +104,7 @@
 |275|[H指数 II](https://leetcode-cn.com/problems/h-index-ii/)|[JavaScript](./algorithm/javascript/275.H指数II.js)|中等|
 |278|[First Bad Version](https://leetcode-cn.com/problems/first-bad-version/)|[JavaScript](./algorithm/javascript/278.FirstBadVersion/278.js)|简单|
 |283|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/)|[JavaScript](./algorithm/javascript/283.MoveZeroes/283.js)|简单|
+|287|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/submissions/)|[JavaScript](./algorithm/javascript/287.寻找重复数.js)|中等|
 |290|[Word Pattern](https://leetcode-cn.com/problems/word-pattern/)|[Go](./algorithm/golang/290.WordPattern/290.go)|简单|
 |292|[Nim Game](https://leetcode-cn.com/problems/nim-game/)|[Go](./algorithm/golang/292.NimGame/292.go)|简单|
 |299|[Bulls and Cows](https://leetcode-cn.com/problems/bulls-and-cows/)|[JavaScript](./algorithm/javascript/299.BullsAndCows/299.js)|简单|
