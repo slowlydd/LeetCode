@@ -64,6 +64,7 @@
 |125|[Valid Palindrome](https://leetcode-cn.com/problems/valid-palindrome/)|[JavaScript](./algorithm/javascript/125.ValidPalindrome/125.js)|简单|
 |128|[最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)|[JavaScript](./algorithm/javascript/128.最长连续序列.js)|困难|
 |134|[Gas Station](https://leetcode-cn.com/problems/gas-station/)|[JavaScript](./algorithm/javascript/134.GasStation/134.js)|中等|
+|135|[分发糖果](https://leetcode-cn.com/problems/candy/)|[JavaScript](./algorithm/javascript/135.分发糖果.js)|困难|
 |136|[Single Number](https://leetcode-cn.com/problems/single-number/)|[JavaScript](./algorithm/javascript/136.SingleNumber/136.js)|简单|
 |141|[Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/)|[JavaScript](./algorithm/javascript/141.LinkedListCycle/141.js)|简单|
 |155|[Min Stack](https://leetcode-cn.com/problems/min-stack/)|[JavaScript](./algorithm/javascript/155.MinStack/155.js)|简单|
