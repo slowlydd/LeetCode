@@ -22,6 +22,8 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./algorithm/javascript/26.RemoveDuplicatesfromSortedArray/26.js)|简单|
 |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/)|[JavaScript](./algorithm/javascript/27.RemoveElement/27.js)|简单|
 |28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[JavaScript](./algorithm/javascript/28.Implement_strStr()/28.js)|简单|
+|33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[JavaScript](./algorithm/javascript/33.搜索旋转排序数组.js)|中等|
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./algorithm/javascript/34.在排序数组中查找元素的第一个和最后一个位置.js)|中等|
 |35|[Search Insert Position](https://leetcode-cn.com/problems/search-insert-position/)|[JavaScript](./algorithm/javascript/35.SearchInsertPosition/35.js)|简单|
 |38|[Count and Say](https://leetcode-cn.com/problems/count-and-say/)|[JavaScript](./algorithm/javascript/38.CountAndSay/38.js)|简单|
 |41|[First Missing Positive](https://leetcode-cn.com/problems/first-missing-positive/)|[Go](./algorithm/golang/41.FirstMissingPositive/41.go)|困难|
