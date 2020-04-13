@@ -132,3 +132,4 @@
 |942|[增减字符串匹配](https://leetcode-cn.com/problems/di-string-match/)|[JavaScript](./algorithm/javascript/942.增减字符串匹配.js)|简单|
 |953|[验证外星语词典](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)|[JavaScript](./algorithm/javascript/953.验证外星语词典.js)|简单|
 |954|[二倍数对数组](https://leetcode-cn.com/problems/array-of-doubled-pairs/)|[JavaScript](./algorithm/javascript/954.二倍数对数组.js)|中等|
+|1025|[除数博弈](https://leetcode-cn.com/problems/divisor-game/)|[JavaScript](./algorithm/javascript/1025.除数博弈.js)|中等|
