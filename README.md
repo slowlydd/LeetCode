@@ -1,7 +1,7 @@
 ![avatar](./leetcode-log.svg)
 
 
-### LeetCode Algorithm
+# LeetCode
 
 | 题号 | 标题 | 题解 | 难度 |
 |---| ----- | -------- | ---------- |
