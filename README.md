@@ -1,7 +1,11 @@
-![avatar](./leetcode-log.svg)
+![avatar](./docs/.vuepress/public/leetcode-log.svg)
 
+## To Do
+- [] LCP19题公共前缀和的实现
+- [] 前缀和的实现
+- [] 第 209 场周赛后两道题
 
-# LeetCode
+## LeetCode
 
 | 题号 | 标题 | 题解 | 难度 |
 |---| ----- | -------- | ---------- |
