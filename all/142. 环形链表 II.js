@@ -11,19 +11,38 @@
  * @return {ListNode}
  */
 var detectCycle = function(head) {
-    if(!head) return null // 失败条件让人头秃
-    let slow = head, fast = head, pre = head
+    // hash map
+    if(!head) return null
+    let s = new Set()
+    let pre = null
+    s.add(p, null)
+    
     do {
-      slow = slow.next
-      if(fast && fast.next) {
-        fast = fast.next.next
+      pre = p
+      p = p.next
+      let temp = s.has(p)
+      if(temp) {
+        return p
       } else {
-        return null
+        s.add(p)
       }
-    } while(slow !== fast);
-    while(pre !== slow) {
-      pre = pre.next
-      slow = slow.next
-    }
-    return slow    
+    } while(p);
+    return null
+
+    // 双指针
+    // if(!head) return null // 失败条件让人头秃
+    // let slow = head, fast = head, pre = head
+    // do {
+    //   slow = slow.next
+    //   if(fast && fast.next) {
+    //     fast = fast.next.next
+    //   } else {
+    //     return null
+    //   }
+    // } while(slow !== fast);
+    // while(pre !== slow) {
+    //   pre = pre.next
+    //   slow = slow.next
+    // }
+    // return slow    
 };
