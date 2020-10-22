@@ -19,8 +19,7 @@ var isPalindrome = function(head) {
     } while(f && f.next)
 
     let pre = null
-    let curr = s.next
-    if(!curr) return false
+    let curr = s
     while(curr) {
         let temp = curr.next
         curr.next = pre
