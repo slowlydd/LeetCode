@@ -32,6 +32,8 @@ var isPalindrome = function(head) {
         if(p.val != pre.val) {
             return false
         }
+        p = p.next 
+        pre = pre.next
     }
     return true    
 };
