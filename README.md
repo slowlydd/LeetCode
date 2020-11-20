@@ -8,5 +8,5 @@
 + [算法小白如何高效、快速刷 leetcode？](https://www.zhihu.com/question/321738058/answer/1252502958)
 + [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/667233164)
 ## 详细题解
-点击这里查看[详细题解](./solutions.md)
+点击这里查看[详细题解](./solutions/README.md)
 ## 其他
