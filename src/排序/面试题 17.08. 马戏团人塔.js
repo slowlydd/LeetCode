@@ -16,16 +16,26 @@ var bestSeqAtIndex = function(height, weight) {
             return -1
         } else if (a.height === b.height) {
             if(a.weight <= b.weight) {
-                return -1
-            } else {
                 return 1
+            } else {
+                return -1
             }
         } else {
             return 1
         }
     })
-    let res = 0, curHeight = 0, curWeight = 0
-    for(let i = 0)
+    let dp = [1]
+    let res = 1
+    for(let i = 1; i < person.length; i++) {
+        let max_val = 0, base_weight =  person[i].weight
+        for(let j = 0; j < i; j++) {
+            if(base_weight > person[j].weight) {
+                max_val = Math.max(max_val, dp[j])
+            }
+        }
+        dp[i] = max_val + 1
+        res = Math.max(res, dp[i])
+    }
     return res
 };
 
